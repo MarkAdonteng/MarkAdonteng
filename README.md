@@ -1,104 +1,56 @@
-# Mark O. Adonteng — Portfolio
+<div align="center">
 
-Premium personal portfolio for **Mark O. Adonteng**, Software Developer.
+# Hi, I'm Mark O. Adonteng
 
-Built with HTML5, CSS3, and vanilla JavaScript. Ready for GitHub Pages.
+### Software Developer
 
-## Quick start
+Building practical products across **mobile**, **web**, **AI systems**, and **RPA**.
 
-Open `index.html` in a browser, or serve the folder locally:
+[![GitHub](https://img.shields.io/badge/GitHub-MarkAdonteng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarkAdonteng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-MarkAdonteng.github.io-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://MarkAdonteng.github.io/)
 
-```bash
-# Python
-python -m http.server 5500
+</div>
 
-# Node
-npx serve .
-```
+---
 
-Then visit `http://localhost:5500`.
+### About me
 
-## Customize
+- Based in **Accra**
+- Focused on real-world software — apps, platforms, and automation
+- Currently exploring advanced Flutter, scalable backends, AI, and RPA
 
-### Contact details
+---
 
-Edit `js/main.js`:
+### What I build
 
-```js
-const CONTACT_CONFIG = {
-  email: "you@example.com",
-  linkedin: "https://www.linkedin.com/in/your-profile",
-  phone: "",
-  portfolioUrl: "https://MarkAdonteng.github.io/",
-};
-```
+| Area | Focus |
+|:-----|:------|
+| 📱 **Mobile** | Modern apps with Flutter & Dart |
+| 🌐 **Web** | Responsive platforms with HTML, CSS, JavaScript & React |
+| 🤖 **AI** | Intelligent systems, LLMs & AI integration |
+| ⚙️ **Automation** | RPA, workflows & process efficiency |
 
-### Projects
+---
 
-Edit the `projects` array in `js/projects.js`:
+### Languages & tools I'm proficient in
 
-```js
-{
-  title: "Project Name",
-  description: "Short explanation.",
-  image: "assets/projects/your-image.png",
-  technologies: ["React", "TypeScript"],
-  github: "https://github.com/MarkAdonteng/...",
-  demo: "https://your-demo-url.com" // or "" to hide
-}
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-Replace SVG placeholders in `assets/projects/` with real screenshots when ready.
+---
 
-## Deploy to GitHub Pages
+<div align="center">
 
-### Option A — User site (`https://MarkAdonteng.github.io/`)
+**Build. Automate. Improve.**
 
-1. Copy the contents of `mark-portfolio/` into the root of the
-   [`markadonteng.github.io`](https://github.com/MarkAdonteng/markadonteng.github.io) repository
-   (or create that repo if needed).
-2. Push to `main`.
-3. In repo **Settings → Pages**, set source to Deploy from branch `main` / root.
-
-### Option B — Project site
-
-1. Push this `mark-portfolio` folder to any repo.
-2. Enable Pages from the folder/branch that contains `index.html`.
-3. If the site is served from a subpath, keep using relative asset paths (already configured).
-
-## Structure
-
-```text
-mark-portfolio/
-├── index.html
-├── favicon.svg
-├── favicon.ico
-├── css/
-│   ├── style.css
-│   ├── responsive.css
-│   └── animations.css
-├── js/
-│   ├── main.js
-│   └── projects.js
-├── assets/
-│   ├── images/
-│   ├── projects/
-│   ├── icons/
-│   └── logo/
-└── README.md
-```
-
-## Features
-
-- Sticky translucent navigation with mobile menu
-- Hero with animated terminal visual and ambient background
-- Expertise, projects, stack, process, GitHub, and contact sections
-- Dynamic project cards from a JS array
-- Optional GitHub API profile stats (graceful fallback)
-- Scroll reveals, reduced-motion support, keyboard focus states
-- SEO / Open Graph metadata
-
-## Notes
-
-- Project copy is intentionally high-level so nothing is invented beyond public GitHub data.
-- Primary favicon is `favicon.svg`. `favicon.ico` is a lightweight fallback copy for older browsers.
+</div>
